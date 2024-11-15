@@ -22,9 +22,12 @@ The implementation is done using Apache Spark, a powerful open-source processing
 - Team Performance Analysis
 - Predictive Modeling
 
+
 ## Package Requirements
 
-#For offline implementaion
+To run this project, you need to install the following packages:
+
+### For Offline Implementation
 
 - Python >= 3.7
 - Scala
@@ -32,9 +35,11 @@ The implementation is done using Apache Spark, a powerful open-source processing
 - JDK
 - Spark
 - Anaconda
-#For online implementaion  
+
+### For Online Implementation
+
 - Databricks
-- AWS S3 Bucket (for storage of Datasets(can also store dataset in Databrics ))
+- AWS S3 Bucket (for storage of datasets; can also store dataset in Databricks)
 
 ## How to Run
 
