@@ -24,8 +24,17 @@ The implementation is done using Apache Spark, a powerful open-source processing
 
 ## Package Requirements
 
+#For offline implementaion
+
+- Python >= 3.7
+- Scala
+- Hadoop
+- JDK
+- Spark
+- Anaconda
+#For online implementaion  
 - Databricks
-- AWS S3 Bucket
+- AWS S3 Bucket (for storage of Datasets(can also store dataset in Databrics ))
 
 ## How to Run
 
